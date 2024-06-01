@@ -1,10 +1,13 @@
 # Guides
 
+- [Emacs](#emacs)
+- [Make](#make)
+
 ## Emacs
 
 Emacs is the extensible, customizable, self-documenting real-time
-display editor. You can run Emacs in the terminal with no window or use
-the GUI version.
+display editor. You can run Emacs in the terminal with no window using
+`emacs -nw` or use the GUI version.
 
 Perhaps the most standard Emacs command line option is outputing the version info with:
 
@@ -25,4 +28,5 @@ A great way to open Emacs and jump straight into a buffer for Lisp evaluation is
 Just enter some Lisp commands for evaluation and execute with `Control-J`.
 
 ## Make
+
 
