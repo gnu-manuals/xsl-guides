@@ -7,7 +7,7 @@
 
 Emacs is the extensible, customizable, self-documenting real-time
 display editor. You can run Emacs in the terminal with no window using
-`emacs -nw` or use the GUI version.
+`emacs -nw` (short for --no-window-system) or use the GUI version.
 
 Perhaps the most standard Emacs command line option is outputing the version info with:
 
