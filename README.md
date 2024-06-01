@@ -23,7 +23,7 @@ For more information about these matters, see the file named COPYING.
 
 This guide uses shorthand notation for key combinations. For example to
 exit Emacs type `Control-x` followed by `Control-c` which is written as
-`C-x C-c`.
+`C-x C-c`. We also use `RET` in place of typing enter or return.
 
 A great way to open Emacs and jump straight into a buffer for Lisp evaluation is to run:
 
@@ -32,9 +32,12 @@ A great way to open Emacs and jump straight into a buffer for Lisp evaluation is
 Just enter some Lisp commands for evaluation and execute with `C-j`.
 
 After starting emacs the integrated tutorial can be run with `C-h t`. The prefix key `C-h`
-stands for "help". To stop the tutorial type `C-x k` then hit enter.
+stands for "help". To stop the tutorial type `C-x k RET`.
 
-When using Emacs on a graphical display you can use `C-z` to minimize the window.
+When using Emacs on a graphical display you can use `C-z` to minimize the window. If you have
+a file named `emacs.txt` in your home directory you can use `C-x C-f emacs.txt RET` to begin
+editing this file. The command `C-x C-f` (find-file) accepts a filename as an argument. When
+you are done editing your file you can save with `C-x C-s`.
 
 ## Make
 
