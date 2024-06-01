@@ -31,7 +31,10 @@ A great way to open Emacs and jump straight into a buffer for Lisp evaluation is
 
 Just enter some Lisp commands for evaluation and execute with `C-j`.
 
-After starting emacs the integrated tutorial can be run with `C-h t`
+After starting emacs the integrated tutorial can be run with `C-h t`. The prefix key `C-h`
+stands for "help". To stop the tutorial type `C-x k` then hit enter.
+
+When using Emacs on a graphical display you can use `C-z` to minimize the window.
 
 ## Make
 
