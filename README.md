@@ -39,6 +39,11 @@ a file named `emacs.txt` in your home directory you can use `C-x C-f emacs.txt R
 editing this file. The command `C-x C-f` (find-file) accepts a filename as an argument. When
 you are done editing your file you can save with `C-x C-s`.
 
+There are some nice command line display options including:
+
+- `--background-color, -bg COLOR`  window background color
+- `--title, -T TITLE`  title for initial Emacs frame
+
 ## Make
 
 
