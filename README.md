@@ -37,7 +37,7 @@ After starting emacs the integrated tutorial can be run with `C-h t`. The prefix
 stands for "help". To stop the tutorial type `C-x k RET`.
 
 When using Emacs on a graphical display you can use `C-z` to minimize the window. If you have
-a file named `emacs.txt` in your home directory you can use `C-x C-f emacs.txt RET` to begin
+a file named `identity.xslt` in your home directory you can use `C-x C-f identity.xslt RET` to begin
 editing this file. The command `C-x C-f` (find-file) accepts a filename as an argument. When
 you are done editing your file you can save with `C-x C-s`.
 
