@@ -21,6 +21,8 @@ under the terms of the GNU General Public License.
 For more information about these matters, see the file named COPYING.
 ```
 
+Two modifier keys are `Control` labeled `Ctrl`, and `META` labeled as `Alt`.
+
 This guide uses shorthand notation for key combinations. For example to
 exit Emacs type `Control-x` followed by `Control-c` which is written as
 `C-x C-c`. We also use `RET` in place of typing enter or return.
@@ -44,6 +46,11 @@ There are some nice command line display options including:
 - `--background-color, -bg COLOR`  window background color
 - `--title, -T TITLE`  title for initial Emacs frame
 
+### Interesting Amusements
+
+Some nice commands you can enter when running Emacs are:
+
+- `M-x dunnet` runs a text-based adventure game
+- `M-x life` runs Conway's "Life" cellular automation <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
+
 ## Make
-
-
